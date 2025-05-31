@@ -1,1 +1,1 @@
-# artifial_intelligence
+# artificial_intelligence
